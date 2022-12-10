@@ -1,0 +1,11 @@
+.form {
+  display:flex;
+  flex-direction: column;
+  background-color:cadetblue;
+  align-items: center;
+}
+
+
+.m5 {
+  margin-bottom: 10px;
+}
